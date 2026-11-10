@@ -59,6 +59,24 @@
               "title": "Darsi 9",
               "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal9.m4a",
               "publishedAt": "2026-11-01"
+            },
+                        {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal10.m4a",
+              "publishedAt": "2026-11-06"
+            },
+                        {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal11.m4a",
+              "publishedAt": "2026-11-07"
+            },
+                        {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://pub-ae61cc789e7d4d6ea200cf504eaf50c0.r2.dev/KhalqiAfcaal12.m4a",
+              "publishedAt": "2026-11-09"
             }
           ]
         }
