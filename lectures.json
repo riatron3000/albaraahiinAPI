@@ -1002,6 +1002,53 @@
       "name": "Xadiith",
       "playlists": [
         {
+          "playlist_name": "Riyaadus-Saalixiin",
+          "playlist_description": "Riyaadus Saalixiin waa kitaab uu qoray Imaam An-Nawawi, oo ka kooban axaadiis ka hadlaya akhlaaqda wanaagsan, cibaadada iyo dhaqanka suubban ee qofka Muslimka ah. Wuxuu soo bandhigayaa axaadiis ka tarjumaya hanuunka iyo tilmaamaha Nebiga ee dhinacyada kala duwan ee nolosha.",
+          "status": "WALI SOCDA",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Hordhaca Riyaadus-Saalixiin",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/001-Hordhaca-Riyaadu-Al-Saalixii.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Xadiiska 1-6",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/002%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(1-6)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Xadiiska 7-12",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/003%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(7-12)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 4,
+              "title": "Xadiiska 13-20",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/004%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(13-20)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 5,
+              "title": "Xadiiska 21",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/005%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(21)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 6,
+              "title": "Xadiiska 22-25",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/006%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(22)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 7,
+              "title": "Xadiiska 26-29",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/007%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(26-29)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 8,
+              "title": "Xadiiska 30",
+              "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/008%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(30)%20%7C%7C%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
           "playlist_name": "Arbaciin Nawawi",
           "playlist_description": "Al-Arba’iin An-Nawawiyyah (Afartanka Xadiis ee Imaam An-Nawawi) waa ururin aad loo qadariyo oo ka kooban 42 xadiis oo aasaasi ah oo uu yiri Nebi Muxammad (NNKH). Waxaa soo ururiyey caalimkii caanka ahaa Imaam Yaxyaa ibnu Sharaaf An-Nawawi, waxaana ay ka hadlaysaa mabaadi’da ugu muhiimsan ee Shareecada Islaamka, Iimaanka, iyo Ixsaanka.",
           "lectures": [
@@ -1272,6 +1319,7 @@
         {
           "playlist_name": "Adabul Mufrad",
           "playlist_description": "Adab al-Mufrad waa kitaab uu soo ururiyey Imaam al-Bukhaari. Wuxuu si gaar ah uga hadlayaa akhlaaqda suubban, asluubta wanaagsan iyo hab-dhaqanka wanaagsan ee qofka Muslimka ah. Waxa uu ka kooban yahay axaadiis ka hadlaya wanaajinta waalidka, xiriirinta qaraabada, xaqa deriska, naxariista, deeqsinimada iyo guud ahaan dhaqanka wanaagsan ee bulshada dhexdeeda.",
+          "status": "WALI SOCDA",
           "lectures": [
             {
               "id": 1,
@@ -1397,6 +1445,71 @@
               "id": 25,
               "title": "Xadiithka 372-390",
               "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_25_Al_Adab_Al_Mufrad_Xadiithka_372_390_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 26,
+              "title": "Xadiithka 391-403",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_26_Al_Adab_Al_Mufrad_Xadiithka_391_403_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 27,
+              "title": "Xadiithka 404-421",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_27_Al_Adab_Al_Mufrad_Xadiithka_372_390_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 28,
+              "title": "Xadiithka 422-435",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_28_Al_Adab_Al_Mufrad_Xadiithka_422_435_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 29,
+              "title": "Xadiithka 436-445",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_29_Al_Adab_Al_Mufrad_Xadiithka_423_445_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 30,
+              "title": "Xadiithka 446-461",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_30_Al_Adab_Al_Mufrad_Xadiithka_436_461_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 31,
+              "title": "Xadiithka 462-474",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_31_Al_Adab_Al_Mufrad_Xadiithka_462_474_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 32,
+              "title": "Xadiithka 475-483",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_32_Al_Adab_Al_Mufrad_Xadiithka_475_483_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 33,
+              "title": "Xadiithka 484-495",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_33_Al_Adab_Al_Mufrad_Xadiithka_484_495_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 34,
+              "title": "Xadiithka 496-510",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_34_Al_Adab_Al_Mufrad_Xadiithka_496_510_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 35,
+              "title": "Xadiithka 511-524",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_35_Al_Adab_Al_Mufrad_Xadiithka_511_524_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 36,
+              "title": "Xadiithka 525-537",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_36_Al_Adab_Al_Mufrad_Xadiithka_525_537_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 37,
+              "title": "Xadiithka 538-557",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_37_Al_Adab_Al_Mufrad_Xadiithka_538_557_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
+            },
+            {
+              "id": 38,
+              "title": "Xadiithka 558-557",
+              "audio_url": "https://pub-d7541c6fea624a0e8bee12afb5b0b9fc.r2.dev/D_38_Al_Adab_Al_Mufrad_Xadiithka_558_571_%7C%7C_Sh_Xassaan_Abu_Salmaan.m4a"
             }
           ]
         },
