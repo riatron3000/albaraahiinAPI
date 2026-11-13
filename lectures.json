@@ -416,6 +416,62 @@
       ]
     },
     {
+      "name": "Fiqhi",
+      "playlists": [
+        {
+          "playlist_name": "Minhaaj Al-Taalibiin",
+          "playlist_description": "Minhaajut Taalibiin waa kitaab ka mid ah kutubta waaweyn ee fiqhiga madh-habka Shaaficiga. Taxanahan wuxuu si gaar ah diiradda u saarayaa axkaamta soonka, isagoo faahfaahinaya shuruudihiisa, waajibaadkiisa, sunnayaashiisa iyo arrimaha la xiriira gudashada cibaadadan.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/01_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/02_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/03_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/04_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/05_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/06_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/07_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/08_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://pub-763647bb413b42d19db0a5fe8c67034f.r2.dev/09_Minhaaj_Al_Daalibiin_%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%7C%7C_Sh_Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Culuumul Quraan",
       "playlists": [
         {
@@ -999,6 +1055,118 @@
       ]
     },
     {
+      "name": "Siyaasi Sharciya",
+      "playlist": [
+        {
+          "playlist_name": "As-Siyaasi ash-Sharciiya",
+          "playlist_description": "Kitaabkani wuxuu ka hadlaya maamulka iyo hoggaaminta bulshada Muslimka ah iyadoo lagu salaynayo mabaadi'da iyo axkaamta shareecada Islaamka. Wuxuu faahfaahinayaa mas'uuliyadaha hoggaamiyeyaasha, cadaaladda, ilaalinta xuquuqda dadka iyo sida loo maareeyo arrimaha bulshada si waafaqsan diinta.",
+          "status": "WALI SOCDA",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/01%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/02%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/03%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/04%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/05%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/06%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/07%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/08%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/09%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/10%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/11%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/12%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/13%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/14%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/15%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/16%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/17%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/18%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Darsi 19",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/19%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Darsi 20",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/As_Siyaasa_Sharciyaciyah/20%20Asiyaasa%20Asharciya%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Xadiith",
       "playlists": [
         {
@@ -1021,27 +1189,27 @@
               "title": "Xadiiska 7-12",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/003%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(7-12)%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 4,
               "title": "Xadiiska 13-20",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/004%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(13-20)%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 5,
               "title": "Xadiiska 21",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/005%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(21)%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 6,
               "title": "Xadiiska 22-25",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/006%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(22)%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 7,
               "title": "Xadiiska 26-29",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/007%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(26-29)%20%7C%7C%20Sh.%20Xassaan.mp3"
             },
-                        {
+            {
               "id": 8,
               "title": "Xadiiska 30",
               "audio_url": "https://pub-23083619c1ce462b9365bbd0ea48538d.r2.dev/008%20Riyaadu%20Al-Saalixiin%20Xadiithka%20(30)%20%7C%7C%20Sh.%20Xassaan.mp3"
@@ -1668,6 +1836,82 @@
               "id": 3,
               "title": "Darsi 3",
               "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Qasiidatu_Cinwaanul_Xikam/03%20Qasiidatu%20Cunwaanul%20Xikam~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Minhaaj al Mutacalim",
+          "playlist_description": "Kitaabkan wuxuu ka hadlaya asluubta iyo hab-dhaqanka ardayga cilmiga diinta, isagoo tilmaamaya sifooyinka iyo akhlaaqda looga baahan yahay qofka doonaya barashada cilmiga shareecada. Wuxuu xoogga saarayaa muhiimadda ay leedahay ikhlaaska, edebta macallinka iyo ardayga iyo ku dhaqanka cilmiga la barto.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/01%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/02%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/03%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/04%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/05%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/06%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/07%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/08%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/09%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/10%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/11%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/12%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/13%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://pub-e0da0e29a8eb47a5ba7c13946ce14f45.r2.dev/14%20Minhaaju%20Al-%20Mutacalim%20%7C%7C%20Sh.%20Xassaan.mp3"
             }
           ]
         }
