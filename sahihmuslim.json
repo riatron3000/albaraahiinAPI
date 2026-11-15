@@ -1,0 +1,26 @@
+{
+    "collection": [
+        {
+            "name": "Saxiixu Muslim",
+            "playlists": [
+                {
+                    "playlist_name": "Saxiixu Muslim",
+                    "playlist_description": "",
+                    "lecturer": "Sh Xassaan Xuseen",
+                    "lectures": [
+                        {
+                            "id": 1,
+                            "title": "01: Tarjumada Imaam Muslim",
+                            "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/001%20Tarjamada%20Imaamu%20Muslim~%20Sh.%20Xassaaan.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "title": "02: Muqadamatu Saxiixu Muslim",
+                            "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/002%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
