@@ -2029,6 +2029,27 @@
       ]
     },
     {
+      "name": "Mustalax Al-Xadiith",
+      "playlists": [
+        {
+          "playlist_name": "Nadmu Nukhbatuk Fikar",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nukhbatul_Fikar/01%20Nadmu%20Nukhbatul%20Fikar~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Nukhbatul_Fikar/02%20Nadmu%20Nukhbatul%20Fikar~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Faraa'id",
       "playlists": [
         {
