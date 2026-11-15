@@ -1248,6 +1248,62 @@
       ]
     },
     {
+      "name": "Qawaacid Fiqhi",
+      "playlists": [
+        {
+          "playlist_name": "Manthuumatul Qawaacidil Fiqhiyya",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/01%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/02%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/03%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/04%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/05%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/06%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+                        {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/07%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },
+
+                        {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/08%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            },            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Manthuumatul_Qawaacidul_Fiqhiyah/09%20Manthuumatul%20Qawaacid%20AlFiqhiyah~%20Sh.%20Xassaan.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Siyaasi Sharciya",
       "playlists": [
         {
