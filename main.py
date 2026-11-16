@@ -33,6 +33,9 @@ with open("khulafaa.json", "r") as f:
 with open("sahihmuslim.json", "r") as f:
     sahihmuslim = json.load(f)
 
+with open("hayaatisahaba.json", "r") as f:
+    hayaatisahaba = json.load(f)
+
 
 @app.get("/playlist")
 def get_playlist():
@@ -66,6 +69,10 @@ def get_khulafaa():
 def get_sahihmuslim():
     return sahihmuslim
 
+@app.get("/sahaba")
+def get_hayaatisahaba():
+    return hayaatisahaba
+
 
 
 
@@ -85,7 +92,8 @@ def get_version():
         "qanda.json",
         "ongoingseries.json",
         "khulafaa.json",
-        "sahihmuslim.json"
+        "sahihmuslim.json",
+        "hayaatisahaba.json"
     ]:
         with open(filename, "rb") as f:
             hasher.update(f.read())

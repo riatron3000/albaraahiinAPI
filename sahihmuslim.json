@@ -1,26 +1,71 @@
 {
-    "collection": [
+  "collection": [
+    {
+      "name": "Saxiixu Muslim",
+      "playlists": [
         {
-            "name": "Saxiixu Muslim",
-            "playlists": [
-                {
-                    "playlist_name": "Saxiixu Muslim",
-                    "playlist_description": "Saxiixu Muslim waa kitaab wa mid ka mid ah labada kitaab ee ugu caansan uguna saxsan kutubta xadiiska. Wuxuu ka kooban yahay axaadiis sugan oo ka hadlaya caqiidada, cibaadaadka, akhlaaqda iyo qaybaha kala duwan ee nolosha Muslimka. Waa kitaab muhiim ah oo saldhig weyn u ah barashada Sunnada Rasuulka.",
-                    "lecturer": "Sh Xassaan Xuseen",
-                    "lectures": [
-                        {
-                            "id": 1,
-                            "title": "01: Tarjumada Imaam Muslim",
-                            "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/001%20Tarjamada%20Imaamu%20Muslim~%20Sh.%20Xassaaan.mp3"
-                        },
-                        {
-                            "id": 2,
-                            "title": "02: Muqadamatu Saxiixu Muslim",
-                            "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/002%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
-                        }
-                    ]
-                }
-            ]
+          "playlist_name": "Saxiixu Muslim",
+          "playlist_description": "Saxiixu Muslim waa kitaab wa mid ka mid ah labada kitaab ee ugu caansan uguna saxsan kutubta xadiiska. Wuxuu ka kooban yahay axaadiis sugan oo ka hadlaya caqiidada, cibaadaadka, akhlaaqda iyo qaybaha kala duwan ee nolosha Muslimka. Waa kitaab muhiim ah oo saldhig weyn u ah barashada Sunnada Rasuulka.",
+          "lecturer": "Sh Xassaan Xuseen",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "01: Tarjumada Imaam Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/001%20Tarjamada%20Imaamu%20Muslim~%20Sh.%20Xassaaan.mp3"
+            },
+            {
+              "id": 2,
+              "title": "02: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/002%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 3,
+              "title": "03: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/003%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 4,
+              "title": "04: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/004%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 5,
+              "title": "05: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/005%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 6,
+              "title": "06: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/006%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 7,
+              "title": "07: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/007%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 8,
+              "title": "08: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/008%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 9,
+              "title": "09: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/009%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 10,
+              "title": "10: Muqadamatu Saxiixu Muslim",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/010%20Muqadamatu%20Saxiixu%20Muslim~%20Sh.%20Xassaan.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Xadiithka 1-7",
+              "audio_url": "https://daarulxadiith.com/mp3/Duruus/Sh_Xassaan_Xuseen_Aadam/Saxiixul_Muslim/011%20Saxiixu%20Muslim%20Xadiithka%20(1-7)~%20Sh.%20Xassaan.mp3"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
