@@ -177,22 +177,22 @@
                   "title": "O1: Bidcada Mawliidka",
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/01%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
                 },
-                                {
+                {
                   "id": 2,
                   "title": "O2: Bidcada Mawliidka",
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/02%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
                 },
-                                {
+                {
                   "id": 3,
                   "title": "O3: Bidcada Mawliidka",
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/03%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
                 },
-                                {
+                {
                   "id": 4,
                   "title": "O4: Bidcada Mawliidka",
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/04%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
                 },
-                                {
+                {
                   "id": 5,
                   "title": "O5: Bidcada Mawliidka",
                   "audio_url": "https://daarulxadiith.com/mp3/Muxaadaro/Sh_Xassaan_Xuseen_Aadam/Muxaadarooyinka_Taxanaha_Ah_Ee_Sh_Xassaan/Bidcada_Mawliidka/05%20Bidcada%20Mawliidka~Sh.%20Xassaan%20Xuseen.mp3"
@@ -377,7 +377,7 @@
                   "id": 4,
                   "title": "04: Kalimada Wanaagsan",
                   "audio_url": "https://www.alimuse.com/Boqolsoon/Kalimatudayib%204.mp3"
-                }, 
+                },
                 {
                   "id": 5,
                   "title": "05: Kalimada Wanaagsan",
@@ -400,6 +400,467 @@
                   "audio_url": "https://alimuse.com/Boqolsoon/Alkufrubidaaquut2.mp3"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sh Shariif Cabdinuur",
+      "image": "https://i.ytimg.com/vi/J4KTVKb8GyU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZkvVK6TaCLX9WX6Ebm9qzIQM9aA",
+      "playlists": [
+        {
+          "playlist_name": "Al Adabul Mufrad",
+          "playlist_description": "Adab al-Mufrad waa kitaab uu soo ururiyey Imaam al-Bukhaari. Wuxuu si gaar ah uga hadlayaa akhlaaqda suubban, asluubta wanaagsan iyo hab-dhaqanka wanaagsan ee qofka Muslimka ah. Waxa uu ka kooban yahay axaadiis ka hadlaya wanaajinta waalidka, xiriirinta qaraabada, xaqa deriska, naxariista, deeqsinimada iyo guud ahaan dhaqanka wanaagsan ee bulshada dhexdeeda.",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Qeybta 001 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta001aad.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Qeybta 002 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta002aad.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Qeybta 003 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta003aad.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Qeybta 004 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta004aad.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Qeybta 005 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta005aad.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Qeybta 006 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta006aad.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Qeybta 007 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta007aad.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Qeybta 008 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta008aad.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Qeybta 009 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta009aad.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Qeybta 010 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta010aad.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Qeybta 011 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta011aad.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Qeybta 012 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta012aad.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Qeybta 013 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta013aad.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Qeybta 014 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta014aad.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Qeybta 015 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta015aad.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Qeybta 016 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta016aad.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Qeybta 017 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta017aad.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Qeybta 018 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta018aad.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Qeybta 019 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta019aad.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Qeybta 020 aad",
+              "audio_url": "https://hanuun.net/media/media/adabulShariif/1/Qeybta020aad.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Alfiyatu ibn Maalik",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/01%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/02%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/03%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/04%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/05%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/06%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/07%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/08%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/09%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/10%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/11%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/12%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/13%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/14%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/15%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/16%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/17%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/18%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Darsi 19",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/19%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Darsi 20",
+              "audio_url": "https://hanuun.net/media/media/alfiyatu%20Malik/1/20%20-%20Alfiyatu%20Ibn%20Maalik.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Alfiyatu Suyuudi",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/01%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/02%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/03%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/04%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/05%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/06%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/07%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/08%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/09%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/10%20-%20Alfiyatu%20Suyuudi.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://hanuun.net/media/media/Alfiyat%20As-Suyuudi/11%20-%20Alfiyatu%20Suyuudi.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Buluuq al Maraam",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Darsi 1",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka001aad.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Darsi 2",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka002aad.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Darsi 3",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka003aad.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Darsi 4",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka004aad.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Darsi 5",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka005aad.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Darsi 6",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka006aad.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Darsi 7",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka007aad.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Darsi 8",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka008aad.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Darsi 9",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka009aad.mp3"
+            },
+            {
+              "id": 10,
+              "title": "Darsi 10",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka010aad.mp3"
+            },
+            {
+              "id": 11,
+              "title": "Darsi 11",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka011aad.mp3"
+            },
+            {
+              "id": 12,
+              "title": "Darsi 12",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka012aad.mp3"
+            },
+            {
+              "id": 13,
+              "title": "Darsi 13",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka013aad.mp3"
+            },
+            {
+              "id": 14,
+              "title": "Darsi 14",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka014aad.mp3"
+            },
+            {
+              "id": 15,
+              "title": "Darsi 15",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka015aad.mp3"
+            },
+            {
+              "id": 16,
+              "title": "Darsi 16",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka016aad.mp3"
+            },
+            {
+              "id": 17,
+              "title": "Darsi 17",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka017aad.mp3"
+            },
+            {
+              "id": 18,
+              "title": "Darsi 18",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka018aad.mp3"
+            },
+            {
+              "id": 19,
+              "title": "Darsi 19",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka019aad.mp3"
+            },
+            {
+              "id": 20,
+              "title": "Darsi 20",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka020aad.mp3"
+            },
+            {
+              "id": 21,
+              "title": "Darsi 21",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka021aad.mp3"
+            },
+            {
+              "id": 22,
+              "title": "Darsi 22",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka022aad.mp3"
+            },
+            {
+              "id": 23,
+              "title": "Darsi 23",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka023aad.mp3"
+            },
+            {
+              "id": 24,
+              "title": "Darsi 24",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka024aad.mp3"
+            },
+            {
+              "id": 25,
+              "title": "Darsi 25",
+              "audio_url": "https://hanuun.net/media/media/BuluuuqShariif/1/Casharka025aad.mp3"
+            }
+          ]
+        },
+        {
+          "playlist_name": "Cilmul Faraa'id",
+          "playlist_description": "",
+          "lectures": [
+            {
+              "id": 1,
+              "title": "Qeybta 001 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta001aad.mp3"
+            },
+            {
+              "id": 2,
+              "title": "Qeybta 002 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta002aad.mp3"
+            },
+            {
+              "id": 3,
+              "title": "Qeybta 003 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta003aad.mp3"
+            },
+            {
+              "id": 4,
+              "title": "Qeybta 004 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta004aad.mp3"
+            },
+            {
+              "id": 5,
+              "title": "Qeybta 005 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta005aad.mp3"
+            },
+            {
+              "id": 6,
+              "title": "Qeybta 006 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta006aad.mp3"
+            },
+            {
+              "id": 7,
+              "title": "Qeybta 007 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta007aad.mp3"
+            },
+            {
+              "id": 8,
+              "title": "Qeybta 008 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta008aad.mp3"
+            },
+            {
+              "id": 9,
+              "title": "Qeybta 009 aad",
+              "audio_url": "https://hanuun.net/media/media/Faraaidshariif/1/Qeybta009aad.mp3"
             }
           ]
         }
